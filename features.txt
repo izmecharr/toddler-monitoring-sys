@@ -1,0 +1,6 @@
+features:
+
+camera view 
+algo -minkowski + yolov8
+control - camera, wifi
+data log - object detected, time/date
